@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @PedroHenriqueSM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PedroHenriqueSM/PedroHenriqueSM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, me chamo @PedroHenriqueSM
+- 👀 tenho interesse na área de analista de testes QA.
+- 🌱 estou estudando, sobre automação de testes.
+- 💞️ pretendo colaborar no crescimento dessa área, aonde vem se expandindo cada vez mais.
+- 📫 pode me encontrar pelo meu LinkedIn: https://www.linkedin.com/in/pedro-henrique-603619230
